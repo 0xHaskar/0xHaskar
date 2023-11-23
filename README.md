@@ -4,7 +4,7 @@
 
 ## About me
 - :heart: Hacking, Python
-- [![dsad](https://cdn.discordapp.com/attachments/581170733565214731/810281331031408641/1384060_1.png)](https://www.youtube.com/channel/UCVrl2OQJrimaaRQV8olYi1w) My channel
+- [![dsad](https://cdn-icons-png.flaticon.com/16/1384/1384060.png)](https://www.youtube.com/channel/UCVrl2OQJrimaaRQV8olYi1w) My channel
 
  #### Materials related to development that I know:
  <p>
