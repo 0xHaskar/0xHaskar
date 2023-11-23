@@ -24,7 +24,6 @@
    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=flat-square&logo=github&logoColor=white">
    <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-0078D4?style=flat-square&logo=kubernetes&logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-DD0031?style=flat-square&logo=docker&logoColor=white" />
     <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-8DD6F9?style=flat-square&logo=gitlab&logoColor=white" />
     <img alt="Gradle" src="https://img.shields.io/badge/-Gradle-0074C7.svg?style=flat-square&logo=gradle&logoColor=white" />
  </p>
