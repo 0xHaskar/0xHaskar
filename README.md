@@ -51,7 +51,6 @@
     <img alt="Windows" src="https://img.shields.io/badge/-Windows-86C8F5.svg?style=flat-square&logo=windows&logoColor=white">
     <img alt="Kali Linux" src="https://img.shields.io/badge/-Kali%20Linux-764ABC.svg?style=flat-square&logo=kali-linux&logoColor=white">
     <img alt="whonix" src="https://img.shields.io/badge/-whonix-ADEB00.svg?style=flat-square&logo=whonix&logoColor=white">
-    <img alt="vim" src="https://img.shields.io/badge/-vim-098WER.svg?style=flat-square&logo=vim&logoColor=white">
     <img alt="VirtualBox" src="https://img.shields.io/badge/-VirtualBox-008444.svg?style=flat-square&logo=virtualbox&logoColor=white">
     <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" /> 
     <img alt="Firefox" src="https://img.shields.io/badge/-Firefox-0097E0.svg?style=flat-square&logo=firefox&logoColor=white">
