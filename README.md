@@ -8,9 +8,9 @@
 
  #### Materials related to development that I know:
  <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=white"/>
   <img alt="Qt" src="https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white" />
-  <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=flat-square&logo=database&logoColor=white">
+  <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=flat-square&logo=database&logoColor=white"/>
   <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
@@ -20,33 +20,33 @@
   <p>
    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white">
-   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=flat-square&logo=github&logoColor=white">
-   <img alt="GitHub Pages" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white">
-   <img alt="GitHub Pages" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white">
+   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/>
+   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=flat-square&logo=github&logoColor=white"/>
+   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/>
+   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
  </p>
  
  #### Cybersecurity-related materials that I know:
   <p>
-    <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
-    <img alt="Metasploit" src="https://img.shields.io/badge/-Metasploit-YB8A00.svg?logo=metasploit&logoColor=white">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-    <img alt="Nmap" src="https://img.shields.io/badge/-Nmap-75D5D5.svg?logo=nmap&logoColor=white">
-    <img alt="OpenVAS" src="https://img.shields.io/badge/-OpenVAS-945B00.svg?logo=openvas&logoColor=white">
-    <img alt="OWASP" src="https://img.shields.io/badge/-OWASP-red.svg?logo=owasp&logoColor=white">
-    <img alt="Burp Suite" src="https://img.shields.io/badge/-Burp%20Suite-796E00.svg?logo=burp-suite&logoColor=white">
-    <img alt="Nessus" src="https://img.shields.io/badge/-Nessus-894B00.svg?logo=nessus&logoColor=white">
-    <img alt="OSINT" src="https://img.shields.io/badge/-OSINT-8I8A00.svg?logo=osint&logoColor=white">
-    <img alt="Reverse Engineering" src="https://img.shields.io/badge/-Reverse%20Engineering-15D5D5.svg?logo=reverse-engineering&logoColor=white">
-    <img alt="Shodan" src="https://img.shields.io/badge/-Shodan-796E00.svg?logo=shodan&logoColor=white">
-    <img alt="Sqlmap" src="https://img.shields.io/badge/-Sqlmap-048A00.svg?logo=sqlmap&logoColor=white">
-    <img alt="Zap" src="https://img.shields.io/badge/-Zap-078F5F.svg?logo=zap&logoColor=white">
-    <img alt="Acunetix" src="https://img.shields.io/badge/-Acunetix-0074C7.svg?style=flat-square&logo=acunetix&logoColor=white" />
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"/>
+    <img alt="Metasploit" src="https://img.shields.io/badge/-Metasploit-YB8A00.svg?logo=metasploit&logoColor=white"/>
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+    <img alt="Nmap" src="https://img.shields.io/badge/-Nmap-75D5D5.svg?logo=nmap&logoColor=white"/>
+    <img alt="OpenVAS" src="https://img.shields.io/badge/-OpenVAS-945B00.svg?logo=openvas&logoColor=white"/>
+    <img alt="OWASP" src="https://img.shields.io/badge/-OWASP-red.svg?logo=owasp&logoColor=white"/>
+    <img alt="Burp Suite" src="https://img.shields.io/badge/-Burp%20Suite-796E00.svg?logo=burp-suite&logoColor=white"/>
+    <img alt="Nessus" src="https://img.shields.io/badge/-Nessus-894B00.svg?logo=nessus&logoColor=white"/>
+    <img alt="OSINT" src="https://img.shields.io/badge/-OSINT-8I8A00.svg?logo=osint&logoColor=white"/>
+    <img alt="Reverse Engineering" src="https://img.shields.io/badge/-Reverse%20Engineering-15D5D5.svg?logo=reverse-engineering&logoColor=white"/>
+    <img alt="Shodan" src="https://img.shields.io/badge/-Shodan-796E00.svg?logo=shodan&logoColor=white"/>
+    <img alt="Sqlmap" src="https://img.shields.io/badge/-Sqlmap-048A00.svg?logo=sqlmap&logoColor=white"/>
+    <img alt="Zap" src="https://img.shields.io/badge/-Zap-078F5F.svg?logo=zap&logoColor=white"/>
+    <img alt="Acunetix" src="https://img.shields.io/badge/-Acunetix-0074C7.svg?style=flat-square&logo=acunetix&logoColor=white"/>
   </p>
 
  #### Cybersecurity-related materials that I am familiar with:
  <p>
-  https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white
+  <img alt="Tails" src="https://img.shields.io/badge/Tails%20-56347C?&style=flat-square&logo=tails&logoColor=white">
  </p>
 
  #### My Setup:
