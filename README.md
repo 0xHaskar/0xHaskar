@@ -9,24 +9,21 @@
  #### Materials related to development that I know:
  <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=white">
-  <img alt="Qt" src="https://img.shields.io/badge/Qt-00B0F0.svg?style=flat-square&logo=qt&logoColor=white" />
+  <img alt="Qt" src="https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white" />
   <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=flat-square&logo=database&logoColor=white">
   <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 
-#### Materials I am familiar with:
+#### Development materials that I am familiar with:
   <p>
    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-   <img alt="XML" src="https://img.shields.io/badge/XML-00A0C1.svg?style=flat-square&logo=xml&logoColor=white" />
-   <img alt="yaml" src="https://img.shields.io/badge/YAML-00A0C1.svg?style=flat-square&logo=yaml&logoColor=white" />
    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white">
    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=flat-square&logo=github&logoColor=white">
-   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-0078D4?style=flat-square&logo=kubernetes&logoColor=white" />
-    <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-8DD6F9?style=flat-square&logo=gitlab&logoColor=white" />
-    <img alt="Gradle" src="https://img.shields.io/badge/-Gradle-0074C7.svg?style=flat-square&logo=gradle&logoColor=white" />
+   <img alt="GitHub Pages" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white">
+   <img alt="GitHub Pages" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white">
  </p>
  
  #### Cybersecurity-related materials that I know:
@@ -47,17 +44,22 @@
     <img alt="Acunetix" src="https://img.shields.io/badge/-Acunetix-0074C7.svg?style=flat-square&logo=acunetix&logoColor=white" />
   </p>
 
+ #### Cybersecurity-related materials that I am familiar with:
+ <p>
+  
+ </p>
+
  #### My Setup:
  <p>
     <img alt="Windows" src="https://img.shields.io/badge/-Windows-86C8F5.svg?style=flat-square&logo=windows&logoColor=white">
     <img alt="Kali Linux" src="https://img.shields.io/badge/-Kali%20Linux-764ABC.svg?style=flat-square&logo=kali-linux&logoColor=white">
-    <img alt="whonix" src="https://img.shields.io/badge/-whonix-ADEB00.svg?style=flat-square&logo=whonix&logoColor=white">
     <img alt="VirtualBox" src="https://img.shields.io/badge/-VirtualBox-008444.svg?style=flat-square&logo=virtualbox&logoColor=white">
-    <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" /> 
+    <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+    <img alt="Tor" src="https://img.shields.io/badge/Tor-7D4698?style=flat-square&logo=Tor-Browser&logoColor=white">
     <img alt="Firefox" src="https://img.shields.io/badge/-Firefox-0097E0.svg?style=flat-square&logo=firefox&logoColor=white">
     <img alt="OpenVPN" src="https://img.shields.io/badge/-OpenVPN-9787E0.svg?style=flat-square&logo=openvpn&logoColor=white">
     <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-FF8A00.svg?style=flat-square&logo=obs-studio&logoColor=white">
  </p>
- 
 
 ### Have a nice day! Bye!
+ [![trophy](https://github-profile-trophy.vercel.app/?username=0xHaskar&theme=dracula)](https://github/0xHaskar/)
