@@ -30,7 +30,6 @@
   <p>
     <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"/>
     <img alt="Metasploit" src="https://img.shields.io/badge/-Metasploit-YB8A00.svg?logo=metasploit&logoColor=white"/>
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
     <img alt="Nmap" src="https://img.shields.io/badge/-Nmap-75D5D5.svg?logo=nmap&logoColor=white"/>
     <img alt="OpenVAS" src="https://img.shields.io/badge/-OpenVAS-945B00.svg?logo=openvas&logoColor=white"/>
     <img alt="OWASP" src="https://img.shields.io/badge/-OWASP-red.svg?logo=owasp&logoColor=white"/>
@@ -61,6 +60,11 @@
     <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-FF8A00.svg?style=flat-square&logo=obs-studio&logoColor=white">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white">
  </p>
+
+ #### My projects:
+  **1. SocialKraken**
+  **2. Ximera-Browser**
+  **3. Obsidian Pentest**
 
 ### Have a nice day! Bye!
  [![trophy](https://github-profile-trophy.vercel.app/?username=0xHaskar&theme=dracula)](https://github/0xHaskar/)
