@@ -29,11 +29,11 @@
  #### Cybersecurity-related materials that I know:
   <p>
     <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"/>
-    <img alt="Metasploit" src="https://img.shields.io/badge/-Metasploit-YB8A00.svg?logo=metasploit&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Ghidra-FF6347?style=flat-square" alt="Ghidra" />
-    <img alt="Nmap" src="https://img.shields.io/badge/-Nmap-75D5D5.svg?logo=nmap&logoColor=white"/>
     <img alt="OWASP" src="https://img.shields.io/badge/-OWASP-red.svg?logo=owasp&logoColor=white"/>
-    <img alt="Burp Suite" src="https://img.shields.io/badge/-Burp%20Suite-796E00.svg?logo=burp-suite&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ghidra-FF6347?style=flat-square" alt="Ghidra" />
+    <img src="https://img.shields.io/badge/Nuclei-B0C4DE?style=flat-square" alt="Nuclei" />
+    <img alt="Nmap" src="https://img.shields.io/badge/-Nmap-75D5D5.svg?logo=nmap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Burp%20Suite-FF7F50?style=flat-square" alt="Burp Suite" />
     <img alt="Zap" src="https://img.shields.io/badge/-Zap-078F5F.svg?logo=zap&logoColor=white"/>
     <img alt="Acunetix" src="https://img.shields.io/badge/-Acunetix-0074C7.svg?style=flat-square&logo=acunetix&logoColor=white"/>
   </p>
@@ -44,14 +44,16 @@
   <img alt="OpenVAS" src="https://img.shields.io/badge/-OpenVAS-945B00.svg?logo=openvas&logoColor=white"/>
   <img alt="Nessus" src="https://img.shields.io/badge/-Nessus-894B00.svg?logo=nessus&logoColor=white"/>
   <img alt="Shodan" src="https://img.shields.io/badge/-Shodan-796E00.svg?logo=shodan&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-4682B4?style=flat-square" alt="Metasploit" />
   <img alt="Sqlmap" src="https://img.shields.io/badge/-Sqlmap-048A00.svg?logo=sqlmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali--Tools%20....-4682B4?style=flat-square" alt="Kali-Tools ...." />
   
  </p>
 
   #### The materials I study:
 <p>
   <img src="https://img.shields.io/badge/OSINT-2E8B57?style=flat-square" alt="OSINT" />
-  <img src="https://img.shields.io/badge/Web--Pentest-red?style=flat-square" alt="Web-Pentest" />
+ <img src="https://img.shields.io/badge/Web--Pentest-4682B4?style=flat-square" alt="Web-Pentest" />
   <img src="https://img.shields.io/badge/Reverse%20Engineering-9370DB?style=flat-square" alt="Reverse Engineering" />
   <img src="https://img.shields.io/badge/RedTeam-DC143C?style=flat-square" alt="RedTeam" />
 </p>
