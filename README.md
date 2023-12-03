@@ -30,7 +30,7 @@
   <p>
     <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"/>
     <img alt="OWASP" src="https://img.shields.io/badge/-OWASP-red.svg?logo=owasp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Ghidra-FF6347?style=flat-square" alt="Ghidra" />
+    <img src="https://img.shields.io/badge/Ghidra-FF4500?style=flat-square" alt="Ghidra" />
     <img src="https://img.shields.io/badge/Nuclei-B0C4DE?style=flat-square" alt="Nuclei" />
     <img alt="Nmap" src="https://img.shields.io/badge/-Nmap-75D5D5.svg?logo=nmap&logoColor=white"/>
     <img src="https://img.shields.io/badge/Burp%20Suite-FF7F50?style=flat-square" alt="Burp Suite" />
