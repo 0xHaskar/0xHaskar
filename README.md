@@ -30,7 +30,7 @@
   <p>
     <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
     <img alt="Metasploit" src="https://img.shields.io/badge/-Metasploit-YB8A00.svg?logo=metasploit&logoColor=white">
-    <img alt="Linux" src="https://img.shields.io/badge/-Linux-008080.svg?logo=linux&logoColor=white">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
     <img alt="Nmap" src="https://img.shields.io/badge/-Nmap-75D5D5.svg?logo=nmap&logoColor=white">
     <img alt="OpenVAS" src="https://img.shields.io/badge/-OpenVAS-945B00.svg?logo=openvas&logoColor=white">
     <img alt="OWASP" src="https://img.shields.io/badge/-OWASP-red.svg?logo=owasp&logoColor=white">
@@ -46,7 +46,7 @@
 
  #### Cybersecurity-related materials that I am familiar with:
  <p>
-  
+  https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white
  </p>
 
  #### My Setup:
@@ -59,6 +59,7 @@
     <img alt="Firefox" src="https://img.shields.io/badge/-Firefox-0097E0.svg?style=flat-square&logo=firefox&logoColor=white">
     <img alt="OpenVPN" src="https://img.shields.io/badge/-OpenVPN-9787E0.svg?style=flat-square&logo=openvpn&logoColor=white">
     <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-FF8A00.svg?style=flat-square&logo=obs-studio&logoColor=white">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white">
  </p>
 
 ### Have a nice day! Bye!
