@@ -35,8 +35,6 @@
     <img alt="OWASP" src="https://img.shields.io/badge/-OWASP-red.svg?logo=owasp&logoColor=white"/>
     <img alt="Burp Suite" src="https://img.shields.io/badge/-Burp%20Suite-796E00.svg?logo=burp-suite&logoColor=white"/>
     <img alt="Nessus" src="https://img.shields.io/badge/-Nessus-894B00.svg?logo=nessus&logoColor=white"/>
-    <img alt="OSINT" src="https://img.shields.io/badge/-OSINT-8I8A00.svg?logo=osint&logoColor=white"/>
-    <img alt="Reverse Engineering" src="https://img.shields.io/badge/-Reverse%20Engineering-15D5D5.svg?logo=reverse-engineering&logoColor=white"/>
     <img alt="Shodan" src="https://img.shields.io/badge/-Shodan-796E00.svg?logo=shodan&logoColor=white"/>
     <img alt="Sqlmap" src="https://img.shields.io/badge/-Sqlmap-048A00.svg?logo=sqlmap&logoColor=white"/>
     <img alt="Zap" src="https://img.shields.io/badge/-Zap-078F5F.svg?logo=zap&logoColor=white"/>
@@ -46,7 +44,16 @@
  #### Cybersecurity-related materials that I am familiar with:
  <p>
   <img alt="Tails" src="https://img.shields.io/badge/Tails%20-56347C?&style=flat-square&logo=tails&logoColor=white">
+  
  </p>
+
+  #### The materials I study:
+<p>
+  <img src="https://img.shields.io/badge/OSINT-2E8B57?style=flat-square" alt="OSINT" />
+  <img src="https://img.shields.io/badge/Web--Pentest-red?style=flat-square" alt="Web-Pentest" />
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-9370DB?style=flat-square" alt="Reverse Engineering" />
+  <img src="https://img.shields.io/badge/RedTeam-DC143C?style=flat-square" alt="RedTeam" />
+</p>
 
  #### My Setup:
  <p>
@@ -60,11 +67,11 @@
     <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-FF8A00.svg?style=flat-square&logo=obs-studio&logoColor=white">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white">
  </p>
-
+ 
  #### My projects:
   **1. SocialKraken**
   **2. Ximera-Browser**
-  **3. Obsidian Pentest**
+  **3. Obsidian-Pentest**
 
 ### Have a nice day! Bye!
  [![trophy](https://github-profile-trophy.vercel.app/?username=0xHaskar&theme=dracula)](https://github/0xHaskar/)
