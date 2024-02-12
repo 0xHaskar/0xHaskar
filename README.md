@@ -79,9 +79,9 @@
   [**4. BurpSuite Academy**](https://dino-chrome.com/)
  
  #### My projects:
-  **1. SocialKraken**
-  **2. Ximera-Browser**
-  **3. Obsidian-Pentest**
+  [**1. SocialKraken**](https://github.com/0xHaskar/SocialKraken)
+  [**2. Ximera-Browser**](https://github.com/0xHaskar/Ximera-Browser)
+  [**3. Obsidian-Pentest**](https://github.com/0xHaskar/Obsidian-Pentest)
 
 ### Have a nice day! Bye!
  [![trophy](https://github-profile-trophy.vercel.app/?username=0xHaskar&theme=dracula)](https://github/0xHaskar/)
