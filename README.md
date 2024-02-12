@@ -42,6 +42,7 @@
  <p>
   <img alt="Tails" src="https://img.shields.io/badge/Tails%20-56347C?&style=flat-square&logo=tails&logoColor=white">
   <img alt="OpenVAS" src="https://img.shields.io/badge/-OpenVAS-945B00.svg?logo=openvas&logoColor=white"/>
+  <img alt="Faraday" src="https://img.shields.io/badge/Faraday-blue?style=flat&logo=Faraday&logoColor=black"/>
   <img alt="Nessus" src="https://img.shields.io/badge/-Nessus-894B00.svg?logo=nessus&logoColor=white"/>
   <img alt="Shodan" src="https://img.shields.io/badge/-Shodan-796E00.svg?logo=shodan&logoColor=white"/>
   <img src="https://img.shields.io/badge/Metasploit-4682B4?style=flat-square" alt="Metasploit" />
