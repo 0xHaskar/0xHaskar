@@ -72,6 +72,12 @@
     <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white">
  </p>
  
+ #### My Profiles:
+  [**1. BugBounty**](https://standoff365.com/profile/0xHaskar/)
+  [**2. HackTheBox**](https://app.hackthebox.com/profile/277975)
+  [**3. Bug Bounty**](https://standoff365.com/profile/0xHaskar/)
+  [**4. Bug Bounty**](https://standoff365.com/profile/0xHaskar/)
+ 
  #### My projects:
   **1. SocialKraken**
   **2. Ximera-Browser**
