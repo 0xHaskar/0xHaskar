@@ -74,9 +74,9 @@
  
  #### My Profiles:
   [**1. BugBounty**](https://standoff365.com/profile/0xHaskar/)
-  [**3. Bug Bounty**](https://standoff365.com/profile/0xHaskar/)
+  [**3. CodebyGames**](https://codeby.games/users/0xHaskar)
   [**2. HackTheBox**](https://app.hackthebox.com/profile/277975)
-  [**4. Bug Bounty**](https://standoff365.com/profile/0xHaskar/)
+  [**4. BurpSuite Academy**](https://dino-chrome.com/)
  
  #### My projects:
   **1. SocialKraken**
