@@ -84,4 +84,4 @@
   [**3. Obsidian-Pentest**](https://github.com/0xHaskar/Obsidian-Pentest)
 
 ### Have a nice day! Bye!
- [![trophy](https://github-profile-trophy.vercel.app/?username=0xHaskar&theme=dracula)](https://github/0xHaskar/)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=0xHaskar&theme=dracula)](https://github.com/0xHaskar/)
