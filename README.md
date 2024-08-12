@@ -22,8 +22,6 @@
    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
    <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/>
    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=flat-square&logo=github&logoColor=white"/>
-   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/>
-   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
  </p>
  
  #### Cybersecurity-related materials that I know:
@@ -41,7 +39,6 @@
  #### Cybersecurity-related materials that I am familiar with:
  <p>
   <img alt="Tails" src="https://img.shields.io/badge/Tails%20-56347C?&style=flat-square&logo=tails&logoColor=white">
-  <img alt="OpenVAS" src="https://img.shields.io/badge/-OpenVAS-945B00.svg?logo=openvas&logoColor=white"/>
   <img alt="Faraday" src="https://img.shields.io/badge/Faraday-blue?style=flat&logo=Faraday&logoColor=black"/>
   <img alt="Nessus" src="https://img.shields.io/badge/-Nessus-894B00.svg?logo=nessus&logoColor=white"/>
   <img alt="Shodan" src="https://img.shields.io/badge/-Shodan-796E00.svg?logo=shodan&logoColor=white"/>
