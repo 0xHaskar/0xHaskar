@@ -2,9 +2,13 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-## About me
+### About me
 - :heart: Hacking, Python
 - [![dsad](https://cdn-icons-png.flaticon.com/16/1384/1384060.png)]() My channel
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=0xHaskar&theme=dracula)](https://github.com/0xHaskar/)
+
 
  #### Materials related to development that I know:
  <p>
@@ -80,5 +84,5 @@
   [**2. Ximera-Browser**](https://github.com/0xHaskar/Ximera-Browser)
   [**3. Obsidian-Pentest**](https://github.com/0xHaskar/Obsidian-Pentest)
 
-### Have a nice day! Bye!
- [![trophy](https://github-profile-trophy.vercel.app/?username=0xHaskar&theme=dracula)](https://github.com/0xHaskar/)
+# Have a nice day! Bye!
+![footer](https://www.kali.org/images/tools-banner.jpg)
