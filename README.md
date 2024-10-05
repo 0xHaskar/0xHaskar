@@ -9,48 +9,37 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=0xHaskar&theme=dracula)](https://github.com/0xHaskar/)
 
+<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://www.kali.org/images/kali-dragon-icon.svg"/>
+<br/>
+<br/>
+<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
+<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src=""/></code>
 
- #### Materials related to development that I know:
- <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=white"/>
-  <img alt="Qt" src="https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white" />
-  <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=flat-square&logo=database&logoColor=white"/>
-  <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
+<br/>
+<br/>
+<br/>
+<br/>
 
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"/></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"/></code>
+<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src=""/></code>
 
-#### Development materials that I am familiar with:
-  <p>
-   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/>
-   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=flat-square&logo=github&logoColor=white"/>
- </p>
- 
- #### Cybersecurity-related materials that I know:
-  <p>
-    <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"/>
-    <img alt="OWASP" src="https://img.shields.io/badge/-OWASP-red.svg?logo=owasp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Ghidra-FF4500?style=flat-square" alt="Ghidra" />
-    <img src="https://img.shields.io/badge/Nuclei-B0C4DE?style=flat-square" alt="Nuclei" />
-    <img alt="Nmap" src="https://img.shields.io/badge/-Nmap-75D5D5.svg?logo=nmap&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Burp%20Suite-FF7F50?style=flat-square" alt="Burp Suite" />
-    <img alt="Zap" src="https://img.shields.io/badge/-Zap-078F5F.svg?logo=zap&logoColor=white"/>
-    <img alt="Acunetix" src="https://img.shields.io/badge/-Acunetix-0074C7.svg?style=flat-square&logo=acunetix&logoColor=white"/>
-  </p>
+<br/>
+<br/>
 
- #### Cybersecurity-related materials that I am familiar with:
- <p>
-  <img alt="Tails" src="https://img.shields.io/badge/Tails%20-56347C?&style=flat-square&logo=tails&logoColor=white">
-  <img alt="Faraday" src="https://img.shields.io/badge/Faraday-blue?style=flat&logo=Faraday&logoColor=black"/>
-  <img alt="Nessus" src="https://img.shields.io/badge/-Nessus-894B00.svg?logo=nessus&logoColor=white"/>
-  <img alt="Shodan" src="https://img.shields.io/badge/-Shodan-796E00.svg?logo=shodan&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-4682B4?style=flat-square" alt="Metasploit" />
-  <img alt="Sqlmap" src="https://img.shields.io/badge/-Sqlmap-048A00.svg?logo=sqlmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali--Tools%20....-4682B4?style=flat-square" alt="Kali-Tools ...." />
-  
- </p>
 
   #### The materials I study:
 <p>
