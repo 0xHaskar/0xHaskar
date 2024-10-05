@@ -51,17 +51,15 @@
 </p>
 
  #### My Setup:
- <p>
-    <img alt="Windows" src="https://img.shields.io/badge/-Windows-86C8F5.svg?style=flat-square&logo=windows&logoColor=white">
-    <img alt="Kali Linux" src="https://img.shields.io/badge/-Kali%20Linux-764ABC.svg?style=flat-square&logo=kali-linux&logoColor=white">
-    <img alt="VirtualBox" src="https://img.shields.io/badge/-VirtualBox-008444.svg?style=flat-square&logo=virtualbox&logoColor=white">
-    <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
-    <img alt="Tor" src="https://img.shields.io/badge/Tor-7D4698?style=flat-square&logo=Tor-Browser&logoColor=white">
-    <img alt="Firefox" src="https://img.shields.io/badge/-Firefox-0097E0.svg?style=flat-square&logo=firefox&logoColor=white">
-    <img alt="OpenVPN" src="https://img.shields.io/badge/-OpenVPN-9787E0.svg?style=flat-square&logo=openvpn&logoColor=white">
-    <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-FF8A00.svg?style=flat-square&logo=obs-studio&logoColor=white">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white">
- </p>
+<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src=""/></code>
  
  #### My Profiles:
   [**1. BugBounty**](https://standoff365.com/profile/0xHaskar/)
