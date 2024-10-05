@@ -36,12 +36,9 @@
 <code><img height="40" width="40" src=""/></code>
 <code><img height="40" width="40" src=""/></code>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xHaskar&theme=dark&hide_border=true"/>
 
+# 
 
 #### The materials I study:
 <p>
