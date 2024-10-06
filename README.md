@@ -30,8 +30,8 @@
 <code><img height="40" width="40" src="https://www.svgrepo.com/show/452091/python.svg"/></code>
 <code><img height="40" width="40" src="https://www.svgrepo.com/show/354200/postgresql.svg"/></code>
 <code><img height="40" width="40" src="https://www.svgrepo.com/show/452202/figma.svg"/></code>
+<code><img height="40" width="40" src="https://www.svgrepo.com/show/353659/docker-icon.svg"/></code>
 <code><img height="40" width="40" src="https://www.svgrepo.com/show/353478/bash-icon.svg"/></code>
-<code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_plain_wordmark_logo_icon_146555.png"/></code>
 <code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/qt_94938.png"/></code>
 
 <br/>
