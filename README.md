@@ -45,21 +45,20 @@
 
 <code><img height="40" width="40" src="https://www.offsec.com/_astro/KLCP.Cj-pLE6a_Z18Q8n7.svg"/></code>
 <code><img height="40" width="40" src="https://www.offsec.com/_astro/OSCP.D0Wrgjqy_2lOY92.svg"/></code>
-<code><img height="40" width="40" /></code>
-<code><img height="40" width="40" /></code>
-<code><img height="40" width="40" /></code>
-
+<code><img height="40" width="40" src="https://www.offsec.com/_astro/OSWE.DI54Eyvq_Zo5ESJ.svg"/></code>
+<code><img height="40" width="40" src="https://www.offsec.com/_astro/OSEP.D_R8bS1A_Z1JYK2E.svg"/></code>
+<code><img height="40" width="40" src="https://www.offsec.com/_astro/OSED.XKmYW6Ds_ZGw05i.svg"/></code>
 
  #### My Setup:
-<code><img height="40" width="40" src=""/></code>
-<code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/virtualbox_logo_icon_169253.png"/></code>
+<code><img height="40" width="40" src="https://web.archive.org/web/20210401163106im_/https://kids.kali.org/img/k4k.png"/></code>
+<code><img height="40" width="40" src="https://img.icons8.com/?size=512&id=R8RW44pV9UP4"/></code>
 <code><img height="40" width="40" src="https://www.svgrepo.com/show/303223/microsoft-windows-22-logo.svg"/></code>
 <code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2552/PNG/512/tor_browser_logo_icon_152955.png"/></code>
-<code><img height="40" width="40" src=""/></code>
-<code><img height="40" width="40" src=""/></code>
-<code><img height="40" width="40" src=""/></code>
-<code><img height="40" width="40" src=""/></code>
-<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src="https://www.svgrepo.com/show/452204/firefox.svg"/></code>
+<code><img height="40" width="40" src="https://gitlab.com/librewolf-community/branding/-/raw/master/icon/icon.svg"/></code>
+<code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/obs_94846.png"/></code>
+<code><img height="40" width="40" src="https://www.svgrepo.com/show/331368/discord-v2.svg"/></code>
+<code><img height="40" width="40" src="https://www.svgrepo.com/show/331519/openvpn.svg"/></code>
  
  #### My Profiles:
   [**1. BugBounty**](https://standoff365.com/profile/0xHaskar/)
