@@ -15,6 +15,21 @@
 <br/>
 <br/>
 
+### Cybersecurity-related materials that I know:
+<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src=""/></code>
+
+### Cybersecurity-related materials that I am familiar with:
+<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src=""/></code>
+<code><img height="40" width="40" src=""/></code>
+
+<br/>
+
 ### Materials related to development that I know:
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"/></code>
 <code><img height="40" width="40" src="https://www.svgrepo.com/show/475654/github-color.svg"/></code>
@@ -25,7 +40,6 @@
 <code><img height="40" width="40" src=""/></code>
 <code><img height="40" width="40" src=""/></code>
 
-
 ### Development materials that I am familiar with:
 <code><img height="40" width="40" src=""/></code>
 <code><img height="40" width="40" src=""/></code>
@@ -35,6 +49,8 @@
 <code><img height="40" width="40" src=""/></code>
 <code><img height="40" width="40" src=""/></code>
 
+
+<br/>
 <br/>
 <br/>
 <br/>
@@ -51,8 +67,8 @@
 
  #### My Setup:
 <code><img height="40" width="40" src="https://web.archive.org/web/20210401163106im_/https://kids.kali.org/img/k4k.png"/></code>
-<code><img height="40" width="40" src="https://img.icons8.com/?size=512&id=R8RW44pV9UP4"/></code>
-<code><img height="40" width="40" src="https://www.svgrepo.com/show/303223/microsoft-windows-22-logo.svg"/></code>
+<code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/virtualbox_104051.png"/></code>
+<code><img height="40" width="40" src="https://img.icons8.com/?size=512&id=TuXN3JNUBGOT&format=png"/></code>
 <code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2552/PNG/512/tor_browser_logo_icon_152955.png"/></code>
 <code><img height="40" width="40" src="https://www.svgrepo.com/show/452204/firefox.svg"/></code>
 <code><img height="40" width="40" src="https://gitlab.com/librewolf-community/branding/-/raw/master/icon/icon.svg"/></code>
