@@ -6,7 +6,6 @@
 - :heart: Hacking, Python
 - [![dsad](https://cdn-icons-png.flaticon.com/16/1384/1384060.png)]() My channel
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=0xHaskar&theme=dracula)](https://github.com/0xHaskar/)
 
 
@@ -58,15 +57,15 @@
 <code><img height="40" width="40" src="https://www.svgrepo.com/show/331519/openvpn.svg"/></code>
  
  #### My Profiles:
-  [**1. BugBounty**](https://standoff365.com/profile/0xHaskar/)
-  [**3. CodebyGames**](https://codeby.games/users/0xHaskar)
-  [**2. HackTheBox**](https://app.hackthebox.com/profile/277975)
+  [**1. HackTheBox**](https://app.hackthebox.com/profile/277975)
+  [**2. CodebyGames**](https://codeby.games/users/0xHaskar)
+  [**3. BugBounty**](https://standoff365.com/profile/0xHaskar/)
   [**4. BurpSuite Academy**](https://dino-chrome.com/)
  
  #### My projects:
-  [**1. SocialKraken**](https://github.com/0xHaskar/SocialKraken)
-  [**2. Ximera-Browser**](https://github.com/0xHaskar/Ximera-Browser)
-  [**3. Obsidian-Pentest**](https://github.com/0xHaskar/Obsidian-Pentest)
+  [**1. Obsidian-Pentest**](https://github.com/0xHaskar/Obsidian-Pentest)
+  [**2. SocialKraken**](https://github.com/0xHaskar/SocialKraken)
+  [**3. Ximera-Browser**](https://github.com/0xHaskar/Ximera-Browser)
 
 # Have a nice day! Bye!
 ![footer](https://www.kali.org/images/tools-banner.jpg)
