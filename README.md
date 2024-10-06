@@ -49,12 +49,6 @@
 <code><img height="40" width="40" src=""/></code>
 <code><img height="40" width="40" src=""/></code>
 
-
-<br/>
-<br/>
-<br/>
-<br/>
-
 # 
 
 #### The materials I study:
@@ -68,7 +62,7 @@
  #### My Setup:
 <code><img height="40" width="40" src="https://web.archive.org/web/20210401163106im_/https://kids.kali.org/img/k4k.png"/></code>
 <code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/virtualbox_104051.png"/></code>
-<code><img height="40" width="40" src="https://img.icons8.com/?size=512&id=TuXN3JNUBGOT&format=png"/></code>
+<code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2235/PNG/512/windows_os_logo_icon_134678.png"/></code>
 <code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2552/PNG/512/tor_browser_logo_icon_152955.png"/></code>
 <code><img height="40" width="40" src="https://www.svgrepo.com/show/452204/firefox.svg"/></code>
 <code><img height="40" width="40" src="https://gitlab.com/librewolf-community/branding/-/raw/master/icon/icon.svg"/></code>
