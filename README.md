@@ -37,15 +37,14 @@
 
 # 
 
-#### The materials I study:
-
+### The materials I study:
 <code><img height="40" width="40" src="https://www.offsec.com/_astro/KLCP.Cj-pLE6a_Z18Q8n7.svg"/></code>
 <code><img height="40" width="40" src="https://www.offsec.com/_astro/OSCP.D0Wrgjqy_2lOY92.svg"/></code>
 <code><img height="40" width="40" src="https://www.offsec.com/_astro/OSWE.DI54Eyvq_Zo5ESJ.svg"/></code>
 <code><img height="40" width="40" src="https://www.offsec.com/_astro/OSEP.D_R8bS1A_Z1JYK2E.svg"/></code>
 <code><img height="40" width="40" src="https://www.offsec.com/_astro/OSED.XKmYW6Ds_ZGw05i.svg"/></code>
 
- #### My Setup:
+### My Setup:
 <code><img height="40" width="40" src="https://web.archive.org/web/20210401163106im_/https://kids.kali.org/img/k4k.png"/></code>
 <code><img height="40" width="40" src="https://www.svgrepo.com/show/452062/microsoft.svg"/></code>
 <code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/virtualbox_104051.png"/></code>
@@ -56,13 +55,13 @@
 <code><img height="40" width="40" src="https://www.svgrepo.com/show/331368/discord-v2.svg"/></code>
 <code><img height="40" width="40" src="https://www.svgrepo.com/show/331519/openvpn.svg"/></code>
  
- #### My Profiles:
+ ### My Profiles:
   [**1. HackTheBox**](https://app.hackthebox.com/profile/277975)
   [**2. CodebyGames**](https://codeby.games/users/0xHaskar)
   [**3. BugBounty**](https://standoff365.com/profile/0xHaskar/)
   [**4. BurpSuite Academy**](https://dino-chrome.com/)
  
- #### My projects:
+ ### My projects:
   [**1. Obsidian-Pentest**](https://github.com/0xHaskar/Obsidian-Pentest)
   [**2. SocialKraken**](https://github.com/0xHaskar/SocialKraken)
   [**3. Ximera-Browser**](https://github.com/0xHaskar/Ximera-Browser)
