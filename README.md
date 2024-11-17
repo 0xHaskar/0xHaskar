@@ -17,7 +17,7 @@
 ### Cybersecurity-related materials that I know:
 <code><img height="40" width="40" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg"/></code>
 <code><img height="40" width="40" src="https://www.kali.org/tools/nmap/images/nmap-logo.svg"/></code>
-<code><img height="40" width="40" src="https://cdn.discordapp.com/attachments/1126871724856721490/1292519209548386365/182753_10150103302294074_162331029073_6198866_191831_n_1.png?ex=670407d1&is=6702b651&hm=541dae2edccfc66656fbecc6b74b79061c2b3c1ea7f80e4867a2832fbd5e688f&"/></code>
+<code><img height="40" width="40" src="https://i.ibb.co/NTn8KyW/image.png"/></code>
 <code><img height="40" width="40" src="https://www.kali.org/tools/ghidra/images/ghidra-logo.svg"/></code>
 <code><img height="40" width="40" src="https://www.kali.org/tools/exploitdb/images/exploitdb-logo.svg"/></code>
 <code><img height="40" width="40" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg"/></code>
