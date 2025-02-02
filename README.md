@@ -63,8 +63,9 @@
  
  ### My projects:
   [**1. Obsidian-Pentest**](https://github.com/0xHaskar/Obsidian-Pentest)
-  [**2. SocialKraken**](https://github.com/0xHaskar/SocialKraken)
+  [**2. Akrion**](https://github.com/Fsecurity-HH/Akrion)
   [**3. Ximera-Browser**](https://github.com/0xHaskar/Ximera-Browser)
+  [**4. SocialKraken**](https://github.com/0xHaskar/SocialKraken)
 
 # Have a nice day! Bye!
 ![footer](https://www.kali.org/images/tools-banner.jpg)
