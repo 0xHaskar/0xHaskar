@@ -31,7 +31,6 @@
 <code><img height="40" width="40" src="https://www.svgrepo.com/show/452202/figma.svg"/></code>
 <code><img height="40" width="40" src="https://www.svgrepo.com/show/353659/docker-icon.svg"/></code>
 <code><img height="40" width="40" src="https://www.svgrepo.com/show/353478/bash-icon.svg"/></code>
-<code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/qt_94938.png"/></code>
 
 <br/>
 
@@ -47,7 +46,7 @@
 ### My Setup:
 <code><img height="40" width="40" src="https://web.archive.org/web/20210401163106im_/https://kids.kali.org/img/k4k.png"/></code>
 <code><img height="40" width="40" src="https://www.svgrepo.com/show/452062/microsoft.svg"/></code>
-<code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/virtualbox_104051.png"/></code>
+<code><img height="40" width="40" src="https://icon-icons.com/icons2/1508/PNG/512/virtualbox_104051.png"/></code>
 <code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2552/PNG/512/tor_browser_logo_icon_152955.png"/></code>
 <code><img height="40" width="40" src="https://www.svgrepo.com/show/452204/firefox.svg"/></code>
 <code><img height="40" width="40" src="https://gitlab.com/librewolf-community/branding/-/raw/master/icon/icon.svg"/></code>
