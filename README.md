@@ -38,11 +38,11 @@
 # 
 
 ### The materials I study:
-<code><img height="40" width="40" src="https://www.offsec.com/_astro/KLCP.Cj-pLE6a_Z18Q8n7.svg"/></code>
-<code><img height="40" width="40" src="https://www.offsec.com/_astro/OSCP.D0Wrgjqy_2lOY92.svg"/></code>
-<code><img height="40" width="40" src="https://www.offsec.com/_astro/OSWE.DI54Eyvq_Zo5ESJ.svg"/></code>
-<code><img height="40" width="40" src="https://www.offsec.com/_astro/OSEP.D_R8bS1A_Z1JYK2E.svg"/></code>
-<code><img height="40" width="40" src="https://www.offsec.com/_astro/OSED.XKmYW6Ds_ZGw05i.svg"/></code>
+<code><img height="40" width="40" src="https://www.offsec.com/_astro/KLCP.Cj-pLE6a_1aXAY.svg"/></code>
+<code><img height="40" width="40" src="https://www.offsec.com/_astro/OSCP.D0Wrgjqy_ZruB4p.svg"/></code>
+<code><img height="40" width="40" src="https://www.offsec.com/_astro/OSWE.DI54Eyvq_ZLSqCm.svg"/></code>
+<code><img height="40" width="40" src="https://www.offsec.com/_astro/OSEP.D_R8bS1A_vjzbH.svg"/></code>
+<code><img height="40" width="40" src="https://www.offsec.com/_astro/OSED.XKmYW6Ds_2716O6.svg"/></code>
 
 ### My Setup:
 <code><img height="40" width="40" src="https://web.archive.org/web/20210401163106im_/https://kids.kali.org/img/k4k.png"/></code>
