@@ -38,7 +38,7 @@
 
 ### The materials I study:
 <code><img height="40" width="40" src="https://www.offsec.com/_astro/KLCP.Cj-pLE6a_1aXAY.svg"/></code>
-<code><img height="40" width="40" src="https://www.offsec.com/_astro/OSCP.D0Wrgjqy_ZruB4p.svg"/></code>
+<code><img height="40" width="40" src="https://www.offsec.com/_astro/OSCP.D0Wrgjqy_Ztlntl.svg"/></code>
 <code><img height="40" width="40" src="https://www.offsec.com/_astro/OSWE.DI54Eyvq_ZLSqCm.svg"/></code>
 <code><img height="40" width="40" src="https://www.offsec.com/_astro/OSEP.D_R8bS1A_vjzbH.svg"/></code>
 <code><img height="40" width="40" src="https://www.offsec.com/_astro/OSED.XKmYW6Ds_2716O6.svg"/></code>
@@ -50,7 +50,7 @@
  
  ### My Profiles:
   [**1. HackTheBox**](https://app.hackthebox.com/profile/277975)
-  [**2. CodebyGames**](https://codeby.games/users/0xHaskar)
+  [**2. HackerLab**](https://hackerlab.pro/users/0xHaskar)
   [**3. BugBounty**](https://standoff365.com/profile/0xHaskar/)
   [**4. BurpSuite Academy**](https://dino-chrome.com/)
  
