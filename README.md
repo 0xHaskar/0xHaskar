@@ -37,7 +37,7 @@
 # 
 
 ### The materials I study:
-<code><img height="40" width="40" src="https://www.offsec.com/_astro/KLCP.Cj-pLE6a_Ztlntl.svg"/></code>
+<code><img height="40" width="40" src="https://www.offsec.com/_astro/KLCP.Cj-pLE6a.svg"/></code>
 <code><img height="40" width="40" src="https://www.offsec.com/_astro/OSCP.D0Wrgjqy_Ztlntl.svg"/></code>
 <code><img height="40" width="40" src="https://www.offsec.com/_astro/OSWE.DI54Eyvq_Ztlntl.svg"/></code>
 <code><img height="40" width="40" src="https://www.offsec.com/_astro/OSEP.D_R8bS1A_Ztlntl.svg"/></code>
