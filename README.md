@@ -19,11 +19,11 @@
 <code><img height="40" width="40" src="/icons/acunetix.png"/></code>
 <code><img height="40" width="40" src="/icons/ghidra-logo.svg"/></code>
 <code><img height="40" width="40" src="/icons/exploitdb-logo.svg"/></code>
-<code><img height="40" width="40" src="/icons/images/metasploit-framework-logo.svg"/></code>
+<code><img height="40" width="40" src="/icons/metasploit-framework-logo.svg"/></code>
 
 ### Development materials that I am familiar with:
 <code><img height="40" width="40" src="/icons/Git_icon.png"/></code>
-<code><img height="40" width="40" src="/icons/github-color.svg"/></code>
+<code><img height="40" width="40" src="/icons/Github-color.svg"/></code>
 <code><img height="40" width="40" src="/icons/python.svg"/></code>
 <code><img height="40" width="40" src="/icons/postgresql.svg"/></code>
 <code><img height="40" width="40" src="/icons/figma.svg"/></code>
