@@ -29,7 +29,7 @@
 <code><img height="40" width="40" src="/icons/figma.svg"/></code>
 <code><img height="40" width="40" src="/icons/docker-icon.svg"/></code>
 <code><img height="40" width="40" src="/icons/bash-icon.svg"/></code>
-<code><img height="40" width="40" src="/icons/Go-Logo_Blue.svg"/></code>
+<!-- <code><img height="40" width="40" src="/icons/Go-Logo_Blue.svg"/></code> -->
 
 <br/>
 
