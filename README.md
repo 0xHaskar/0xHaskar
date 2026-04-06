@@ -48,7 +48,7 @@
 
  
  ### My Profiles:
-  [**1. HackTheBox**](https://app.hackthebox.com/profile/277975)
+  [**1. HackTheBox**](https://app.hackthebox.com/public/users/277975)
   [**2. HackerLab**](https://hackerlab.pro/users/0xHaskar)
   [**3. BugBounty**](https://standoff365.com/profile/0xHaskar/)
   [**4. BurpSuite Academy**](https://ru.wikipedia.org/wiki/Dinosaur_Game)
